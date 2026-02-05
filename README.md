@@ -6,7 +6,9 @@
 
 ## What This Is
 
-A 48-week, self-paced curriculum that takes you from zero to full-stack developer. No hand-holding. No copy-paste answers. You struggle, you learn, you build.
+Self-paced programming curricula that take you from zero to job-ready. No hand-holding. No copy-paste answers. You struggle, you learn, you build.
+
+**Current track:** Full-Stack React (48 weeks)
 
 **Target:** Career changers with 1-2 hours daily
 **Outcome:** Job-ready full-stack developer with a portfolio of deployed projects
@@ -109,6 +111,23 @@ no-solutions/
 ├── CLAUDE.md                    # AI teaching mode instructions
 └── .cursorrules                 # Cursor AI instructions
 ```
+
+---
+
+## Roadmap
+
+This is the first track. More are coming.
+
+### Available Now
+- **Full-Stack React** — JavaScript, TypeScript, React, Node.js, PostgreSQL
+
+### Planned
+- **Python & Data Science** — Python fundamentals, pandas, data analysis, ML basics
+- **Mobile Development** — React Native, cross-platform apps
+- **DevOps Fundamentals** — Linux, Docker, CI/CD, cloud deployment
+- **Computer Science Core** — Algorithms, data structures, system design
+
+Want to see a specific track? [Open an issue](https://github.com/0xfaisl/no-solutions/issues).
 
 ---
 
